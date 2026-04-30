@@ -125,4 +125,5 @@ Architektura oparta jest na strukturze MVC (Model-Widok-Kontroler), gdzie:
 
 ---
 
-[English](/README.md)
+[English](/README.md)  
+[Ocena repozytorium](/Documents/Repository-Assessment-PL.md)
