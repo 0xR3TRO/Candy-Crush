@@ -125,4 +125,5 @@ The architecture is based on the MVC (Model-View-Controller) structure, where:
 
 ---
 
-[Polish](<Documents/README(PL).md>)
+[Polish](<Documents/README(PL).md>)  
+[Repository Assessment (PL)](<Documents/Repository-Assessment-PL.md>)
